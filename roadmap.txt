@@ -1,0 +1,4 @@
+Project Roadmap
+=============
+
+None. This project is the base for future forks and should be concidered static.
