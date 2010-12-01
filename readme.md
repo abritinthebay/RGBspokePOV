@@ -1,13 +1,10 @@
 RGBspokePOV - A Full Color Persistence of Vision Toy
 ====================================================
-This project is build onto of Jan Paul Posma's work for his PimpMyBike personal project, located at:
-
-https://github.com/abritinthebay/PimpMyBike
+This project is build onto of Jan Paul Posma's work for his *PimpMyBike* personal project which also has an [inactive repo on github](http://github.com/abritinthebay/PimpMyBike).
 
 This repo is intended, with his blessing, to turn his personal project into a well documented and hopefully improved codebase and hardware platform. 
 
-Project Goals
-_____________
+## Project Goals ##
 
 These can be read in the roadmap file included with these source files.
 
