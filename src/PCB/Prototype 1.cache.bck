@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0  6/1/2008-11:41:18
+#
+$CMP C
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP CONN_5
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CP
+D Condensateur polarise
+$ENDCMP
+#
+$CMP DIODESCH
+D Diode schottky
+K DEV DIODE
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP SW_PUSH
+D Push Button
+K Switch
+$ENDCMP
+#
+$CMP USB_CONN
+D USB CONNECTOR
+K USB
+$ENDCMP
+#
+#End Doc Library

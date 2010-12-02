@@ -1,0 +1,108 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BIT_LED1B::4	G:\BikeImage\Code Main\main.h	25;"	d	line:25
+BIT_LED1G::3	G:\BikeImage\Code Main\main.h	23;"	d	line:23
+BIT_LED1R::5	G:\BikeImage\Code Main\main.h	21;"	d	line:21
+BIT_LED2B::1	G:\BikeImage\Code Main\main.h	36;"	d	line:36
+BIT_LED2G::0	G:\BikeImage\Code Main\main.h	34;"	d	line:34
+BIT_LED2R::2	G:\BikeImage\Code Main\main.h	32;"	d	line:32
+BIT_LED3B::6	G:\BikeImage\Code Main\main.h	47;"	d	line:47
+BIT_LED3G::5	G:\BikeImage\Code Main\main.h	45;"	d	line:45
+BIT_LED3R::7	G:\BikeImage\Code Main\main.h	43;"	d	line:43
+BIT_LED4B::7	G:\BikeImage\Code Main\main.h	58;"	d	line:58
+BIT_LED4G::6	G:\BikeImage\Code Main\main.h	56;"	d	line:56
+BIT_LED4R::4	G:\BikeImage\Code Main\main.h	54;"	d	line:54
+BIT_LED5B::4	G:\BikeImage\Code Main\main.h	69;"	d	line:69
+BIT_LED5G::3	G:\BikeImage\Code Main\main.h	67;"	d	line:67
+BIT_LED5R::5	G:\BikeImage\Code Main\main.h	65;"	d	line:65
+BIT_LED6B::1	G:\BikeImage\Code Main\main.h	80;"	d	line:80
+BIT_LED6G::0	G:\BikeImage\Code Main\main.h	78;"	d	line:78
+BIT_LED6R::2	G:\BikeImage\Code Main\main.h	76;"	d	line:76
+BIT_LED7B::1	G:\BikeImage\Code Main\main.h	91;"	d	line:91
+BIT_LED7G::0	G:\BikeImage\Code Main\main.h	89;"	d	line:89
+BIT_LED7R::2	G:\BikeImage\Code Main\main.h	87;"	d	line:87
+BIT_LED8B::1	G:\BikeImage\Code Main\main.h	102;"	d	line:102
+BIT_LED8G::0	G:\BikeImage\Code Main\main.h	100;"	d	line:100
+BIT_LED8R::2	G:\BikeImage\Code Main\main.h	98;"	d	line:98
+CODE_ADDR_LOWER::0x3000	G:\BikeImage\Code Main\main.h	14;"	d	line:14
+CODE_ADDR_UPPER::0x00	G:\BikeImage\Code Main\main.h	13;"	d	line:13
+DelayMs	G:\BikeImage\Code Main\main.h	122;"	p	line:122	signature:(unsigned long cnt)
+DelayUs	G:\BikeImage\Code Main\main.h	120;"	p	line:120	signature:(unsigned char cnt)
+Delays100Us	G:\BikeImage\Code Main\main.h	121;"	p	line:121	signature:(unsigned long cnt)
+Difference100Us	G:\BikeImage\Code Main\main.h	124;"	p	line:124	signature:(unsigned long StartTick, unsigned long StopTick)
+DifferenceMs	G:\BikeImage\Code Main\main.h	123;"	p	line:123	signature:(unsigned long StartTick, unsigned long StopTick)
+InterruptHandlerHigh	G:\BikeImage\Code Main\main.h	115;"	p	line:115	signature:(void)
+InterruptHandlerLow	G:\BikeImage\Code Main\main.h	116;"	p	line:116	signature:(void)
+LED1B::PORT_LED1Bbits.PORT_LED1BBIT_L	G:\BikeImage\Code Main\main.h	29;"	d	line:29
+LED1G::PORT_LED1Gbits.PORT_LED1GBIT_L	G:\BikeImage\Code Main\main.h	28;"	d	line:28
+LED1R::PORT_LED1Rbits.PORT_LED1RBIT_L	G:\BikeImage\Code Main\main.h	27;"	d	line:27
+LED2B::PORT_LED2Bbits.PORT_LED2BBIT_L	G:\BikeImage\Code Main\main.h	40;"	d	line:40
+LED2G::PORT_LED2Gbits.PORT_LED2GBIT_L	G:\BikeImage\Code Main\main.h	39;"	d	line:39
+LED2R::PORT_LED2Rbits.PORT_LED2RBIT_L	G:\BikeImage\Code Main\main.h	38;"	d	line:38
+LED3B::PORT_LED3Bbits.PORT_LED3BBIT_L	G:\BikeImage\Code Main\main.h	51;"	d	line:51
+LED3G::PORT_LED3Gbits.PORT_LED3GBIT_L	G:\BikeImage\Code Main\main.h	50;"	d	line:50
+LED3R::PORT_LED3Rbits.PORT_LED3RBIT_L	G:\BikeImage\Code Main\main.h	49;"	d	line:49
+LED4B::PORT_LED4Bbits.PORT_LED4BBIT_L	G:\BikeImage\Code Main\main.h	62;"	d	line:62
+LED4G::PORT_LED4Gbits.PORT_LED4GBIT_L	G:\BikeImage\Code Main\main.h	61;"	d	line:61
+LED4R::PORT_LED4Rbits.PORT_LED4RBIT_L	G:\BikeImage\Code Main\main.h	60;"	d	line:60
+LED5B::PORT_LED5Bbits.PORT_LED5BBIT_L	G:\BikeImage\Code Main\main.h	73;"	d	line:73
+LED5G::PORT_LED5Gbits.PORT_LED5GBIT_L	G:\BikeImage\Code Main\main.h	72;"	d	line:72
+LED5R::PORT_LED5Rbits.PORT_LED5RBIT_L	G:\BikeImage\Code Main\main.h	71;"	d	line:71
+LED6B::PORT_LED6Bbits.PORT_LED6BBIT_L	G:\BikeImage\Code Main\main.h	84;"	d	line:84
+LED6G::PORT_LED6Gbits.PORT_LED6GBIT_L	G:\BikeImage\Code Main\main.h	83;"	d	line:83
+LED6R::PORT_LED6Rbits.PORT_LED6RBIT_L	G:\BikeImage\Code Main\main.h	82;"	d	line:82
+LED7B::PORT_LED7Bbits.PORT_LED7BBIT_L	G:\BikeImage\Code Main\main.h	95;"	d	line:95
+LED7G::PORT_LED7Gbits.PORT_LED7GBIT_L	G:\BikeImage\Code Main\main.h	94;"	d	line:94
+LED7R::PORT_LED7Rbits.PORT_LED7RBIT_L	G:\BikeImage\Code Main\main.h	93;"	d	line:93
+LED8B::PORT_LED8Bbits.PORT_LED8BBIT_L	G:\BikeImage\Code Main\main.h	106;"	d	line:106
+LED8G::PORT_LED8Gbits.PORT_LED8GBIT_L	G:\BikeImage\Code Main\main.h	105;"	d	line:105
+LED8R::PORT_LED8Rbits.PORT_LED8RBIT_L	G:\BikeImage\Code Main\main.h	104;"	d	line:104
+NUMBER_OF_INSTR::((XTAL_FREQ/4)/TICKS_PER_SECON	G:\BikeImage\Code Main\main.h	8;"	d	line:8
+PORT_LED1B::LATB	G:\BikeImage\Code Main\main.h	24;"	d	line:24
+PORT_LED1G::LATB	G:\BikeImage\Code Main\main.h	22;"	d	line:22
+PORT_LED1R::LATB	G:\BikeImage\Code Main\main.h	20;"	d	line:20
+PORT_LED2B::LATB	G:\BikeImage\Code Main\main.h	35;"	d	line:35
+PORT_LED2G::LATB	G:\BikeImage\Code Main\main.h	33;"	d	line:33
+PORT_LED2R::LATB	G:\BikeImage\Code Main\main.h	31;"	d	line:31
+PORT_LED3B::LATD	G:\BikeImage\Code Main\main.h	46;"	d	line:46
+PORT_LED3G::LATD	G:\BikeImage\Code Main\main.h	44;"	d	line:44
+PORT_LED3R::LATD	G:\BikeImage\Code Main\main.h	42;"	d	line:42
+PORT_LED4B::LATC	G:\BikeImage\Code Main\main.h	57;"	d	line:57
+PORT_LED4G::LATC	G:\BikeImage\Code Main\main.h	55;"	d	line:55
+PORT_LED4R::LATD	G:\BikeImage\Code Main\main.h	53;"	d	line:53
+PORT_LED5B::LATA	G:\BikeImage\Code Main\main.h	68;"	d	line:68
+PORT_LED5G::LATD	G:\BikeImage\Code Main\main.h	66;"	d	line:66
+PORT_LED5R::LATA	G:\BikeImage\Code Main\main.h	64;"	d	line:64
+PORT_LED6B::LATD	G:\BikeImage\Code Main\main.h	79;"	d	line:79
+PORT_LED6G::LATD	G:\BikeImage\Code Main\main.h	77;"	d	line:77
+PORT_LED6R::LATD	G:\BikeImage\Code Main\main.h	75;"	d	line:75
+PORT_LED7B::LATC	G:\BikeImage\Code Main\main.h	90;"	d	line:90
+PORT_LED7G::LATC	G:\BikeImage\Code Main\main.h	88;"	d	line:88
+PORT_LED7R::LATC	G:\BikeImage\Code Main\main.h	86;"	d	line:86
+PORT_LED8B::LATE	G:\BikeImage\Code Main\main.h	101;"	d	line:101
+PORT_LED8G::LATE	G:\BikeImage\Code Main\main.h	99;"	d	line:99
+PORT_LED8R::LATE	G:\BikeImage\Code Main\main.h	97;"	d	line:97
+SEGMENT_1X::LATBbits.LATB6	G:\BikeImage\Code Main\main.h	108;"	d	line:108
+SEGMENT_1Y::LATAbits.LATA3	G:\BikeImage\Code Main\main.h	109;"	d	line:109
+SEGMENT_1Z::LATAbits.LATA2	G:\BikeImage\Code Main\main.h	110;"	d	line:110
+SEGMENT_2X::LATAbits.LATA0	G:\BikeImage\Code Main\main.h	111;"	d	line:111
+SEGMENT_2Y::LATBbits.LATB7	G:\BikeImage\Code Main\main.h	112;"	d	line:112
+SEGMENT_2Z::LATAbits.LATA1	G:\BikeImage\Code Main\main.h	113;"	d	line:113
+TICKS_PER_SECOND::(50000)	G:\BikeImage\Code Main\main.h	6;"	d	line:6
+TICK_COUNTER_HIGH::((TIMER_PRESET_VALUE>>8)&0xFF)	G:\BikeImage\Code Main\main.h	10;"	d	line:10
+TICK_COUNTER_LOW::(TIMER_PRESET_VALUE&0xFF)	G:\BikeImage\Code Main\main.h	11;"	d	line:11
+TIMER_PRESET_VALUE::(0xFFFF-NUMBER_OF_INSTR)	G:\BikeImage\Code Main\main.h	9;"	d	line:9
+TickCount	G:\BikeImage\Code Main\main.c	20;"	v	line:20
+XTAL_FREQ::48000000	G:\BikeImage\Code Main\xtal_freq.h	2;"	d	line:2
+_MAIN_H	G:\BikeImage\Code Main\main.h	2;"	d	line:2
+_reset_boot	G:\BikeImage\Code Main\main.c	24;"	f	line:24	signature:(void)
+_startup	G:\BikeImage\Code Main\main.c	22;"	p	line:22	file:	signature:(void)
+main	G:\BikeImage\Code Main\main.h	118;"	p	line:118	signature:(void)
+on_init	G:\BikeImage\Code Main\main.h	117;"	p	line:117	signature:(void)
+timer1_init	G:\BikeImage\Code Main\main.h	119;"	p	line:119	signature:(void)
