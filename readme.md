@@ -9,9 +9,9 @@ These can be read in the `roadmap.txt` file included with these source files.
 
 ### Jan Paul's Original Notes ###
 
-> 1. Bear in mind that I created this when I was 17. While the board is of pretty high quality (they still work!), and the firmware works quite good too, the Java code is horrible. A friend of mine created a project similar to the LadyAda thing [`ed. - spokePOV, single color`], and he wrote this program, and I tried to convert it for RGB and that shows. For example, there is still a button for a COM-port connection, although this one works fully with USB!
+> 1. Bear in mind that I created this when I was 17. While the board is of pretty high quality (they still work!), and the firmware works quite good too, the Java code is horrible. A friend of mine created a project similar to the LadyAda thing [*ed. - spokePOV, single color*], and he wrote this program, and I tried to convert it for RGB and that shows. For example, there is still a button for a COM-port connection, although this one works fully with USB!
 
-> 2. From what I can figure out right now, you have to split the hex file at 0x300 and create two files: `firma.hex` and `firmb.hex. Then the Java program will assemble the final hex from these files and the image code that belongs in between.
+> 2. From what I can figure out right now, you have to split the hex file at 0x300 and create two files: `firma.hex` and `firmb.hex`. Then the Java program will assemble the final hex from these files and the image code that belongs in between.
 
 > 3. The bootloader is pretty standard stuff, so you can probably also use an updated version, e.g. from usbpicprog.org. The important thing is the line in Bootloader/main.c where it enters the program once the magnet switch is toggled.
 
