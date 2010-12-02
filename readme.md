@@ -5,7 +5,7 @@ This project is build onto of Jan Paul Posma's work for his *PimpMyBike* persona
 This repo is intended, with his blessing, to turn his personal project into a well documented and hopefully improved codebase and hardware platform. 
 
 ## Project Goals ##
-These can be read in the `roadmap.txt` file included with these source files.
+These can be read in the `roadmap.md` file included with these source files.
 
 ### Jan Paul's Original Notes ###
 
